@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "The Abandoned Zone",
+    pageTitle: "abandoned.zone",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
