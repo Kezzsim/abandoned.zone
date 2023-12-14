@@ -15,7 +15,7 @@ Subject to environmental regulations, building owners are already required to co
 
 The core purpose of abandoned.ai is to lay the foundation for this type of unified digital preservation effort and to bootstrap adaptation wherever interested parties exist.
 
-# Organizational status
+# EstablishingOrganizational status
 
 abandoned.ai seeks to become an accredited 501(c)(3) in the states of New York or Delaware. Education and outreach is at the center of all our efforts, not profit. In spite of the flashy *.ai* branding which is common among big silicon valley tech companies, we are about proving that machine learning based imaging technology has become widespread and inexpensive enough for mass adoption. Aside from hosting resources, abandoned.ai seeks to train staff and members of the general public in using said resources to capture more spaces safely and utilize existing captures in creative ways.
 
