@@ -17,6 +17,6 @@ The invention of photography first allowed humans to capture small windows into 
 # Directory
 
 - [[Mission statement]]
-- [[Overview|Technologies]]
+- [[Timeline|Technologies]]
 - [[About us]]
 - [[Hosting infrastructure]]
