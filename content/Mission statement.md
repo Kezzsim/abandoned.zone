@@ -9,6 +9,9 @@ authors: ["Kari K. Barry"]
 - Places at earlier stages of abandonment, liable to weathering and degradation over time.
 - Places deemed to be of little historic or cultural significance, such that efforts to preserve them would be passed over by other more esteemed institutions like the [Google Cultural institute](https://artsandculture.google.com/).
 
+![[building_60_blueprint.jpeg]]
+> *The volume of Building #60 at KPPC drawn over where it formerly stood*, 2016
+
 # Establishing Legal status
 
 Subject to environmental regulations, building owners are already required to complete abatements and other standard procedures before being able to tear down or abandon a structure legally. These obligations change based on the entity in possession of the property. For public spaces controlled by town, state or federal entities we propose the introduction of a clause to require the capture and digital preservation of human centered areas contained within. Offices and registries of historic places at all levels of government should provide guidance on facilitating such captures and stewardship of the digital assets and artifacts produced.

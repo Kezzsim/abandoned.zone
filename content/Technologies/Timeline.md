@@ -1,5 +1,5 @@
 ---
-creation_date: 12/13/23
+creation_date: 12/14/23
 authors: ["Kari K. Barry"]
 ---
 
@@ -43,7 +43,7 @@ For guidelines see the section : [[Photogrammetry]]
 From this point onward emphasis shifts away from the camera, towards the computer. ***Structure from Motion*** (SfM) takes a series of images which share overlapping identifiable features (known as *landmarks*) and puts them through a *localizing* algorithm. This allows the computer to create points in three dimensional space that refer to areas of the image.<br/>
 For guidelines see the section : [[Structure from Motion]]
 
-# (4) NeRF (2022)
+# (4) NeRF (2020)
 #### Method : Rendering
 ![[NeRF_depth.gif]]
 <br/>
@@ -52,7 +52,7 @@ For guidelines see the section : [[Structure from Motion]]
 SfM mostly gives us, as the name implies, *structure*, which comes in the form of point clouds. These are often imperfect, sparse representations of objects and space which lack scalable representations of color and luminosity. Due to recent advancements in Machine Learning, ***Neural Radiance Fields*** (NeRF) have emerged as an enhanced way to convert photogrammetric images into spatial data. Radiance fields incorporate physical aspects of light including directionality to create a more realistic representation of objects. Although highly effective, NeRFs require substantial compute to both train and render (view).<br/>
 For guidelines see the section : [[NeRF]]
 
-# (5) Gaussian Splatting (2023)
+# (5) Gaussian Splatting (2022)
 ## This is the method *abandoned.ai* currently uses
 #### Method : Rendering
 [[Gaussian Splatting]]![[gaussian_nerf_comparison.png]]
@@ -61,3 +61,12 @@ For guidelines see the section : [[NeRF]]
 <br/>
 NeRF provides a baseline for rendering spaces, yet at times it does so perhaps a bit to literally. Radiance fields can be represented in different ways, normally a NeRF viewer would express the entire trajectory of a beam of light which means scenes need to be completely re-rendered after changing the view. However, these can be compressed into *gaussians*, small blurred particles that roughly express the light in a way that is much less computationally intense.<br/>
 For guidelines see the section : [[Gaussian Splatting]]
+
+# (6) SMERF (2023)
+#### Method : Rendering
+![[smerf_demo.gif]]
+<br/>
+[Image attribution](https://smerf-3d.github.io/)
+<br/>
+Announced only a day before writing this, ***SMERF*** is a novel way to stream gaussian like objects dynamically, allowing multiple captured environments to be blended together and seamlessly loaded between. Previous rendering methods were sufficient only for individual rooms and isolated scans, but with this technology we are able to recreate entire floors of buildings and stream their contents to clients over the web.<br/>
+For guidelines see the section : [[SMERF]]
