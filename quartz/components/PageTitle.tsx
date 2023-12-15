@@ -31,7 +31,7 @@ h1::before {
 	}
 }
 h1::after {
-	clip-path: polygon(0 0, 100% 0%, 100% 46%, 0 66%);
+	clip-path: polygon(0 0, 100% 0%, 100% 50%, 0 66%);
 	animation: slide 5s infinite;
 }
 .page-title {
