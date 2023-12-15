@@ -27,7 +27,7 @@ h1::before {
 		transform: translateX(0);
 	}
 	50% {
-		transform: translate(-20px, 2%);
+		transform: translate(-16px, 1%);
 	}
 }
 h1::after {
