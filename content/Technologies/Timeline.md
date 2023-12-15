@@ -53,7 +53,7 @@ SfM mostly gives us, as the name implies, *structure*, which comes in the form o
 For guidelines see the section : [[NeRF]]
 
 # (5) Gaussian Splatting (2022)
-## This is the method *abandoned.ai* currently uses
+***This is the method *abandoned.ai* currently uses***
 #### Method : Rendering
 [[Gaussian Splatting]]![[gaussian_nerf_comparison.png]]
 <br/>
