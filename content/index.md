@@ -5,7 +5,7 @@ authors: ["Kari K. Barry"]
 
 # The Abandoned Zone
 
-This is the source for all documentation behind *abandoned.ai*, a resource intended to help preserve and protect the memory of lost spaces digitally using emergent technologies. Contained within are outlines that go over our mission, tools, process and practices.
+This is the source for all documentation behind [*abandoned.ai*](https://abandoned.ai), a resource intended to help preserve and protect the memory of lost spaces digitally using emergent technologies. Contained within are outlines that go over our mission, tools, process and practices.
 ![[abandoned_zone_zsplash101.png]]
 ## Prologue
 

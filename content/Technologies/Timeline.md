@@ -3,7 +3,7 @@ creation_date: 12/14/23
 authors: ["Kari K. Barry"]
 ---
 
-*abandoned.ai* relies on two different types of technology in order to facilitate its mission:
+[*abandoned.ai*](https://abandoned.ai) relies on two different types of technology in order to facilitate its mission:
 - **Capturing Methods**
 	- [[#(1) Photography (1822)|Photography]]
 	- [[#(2) Photogrammetry (1867)|Photogrammetry]]
@@ -12,7 +12,7 @@ authors: ["Kari K. Barry"]
 	- [[#(4) NeRF (2022)|NeRF]]
 	- [[#(5) Gaussian Splatting (2023)|Gaussian Splatting]]
 
-On occasion the boundaries between these resource areas can become obfuscated as different software and hardware applications package them together to create a finished product. This article serves to be a broad overview of how these technologies came about and why they're all pertinent to the current zeitgeist enabling the existence of *abandoned.ai*.
+On occasion the boundaries between these resource areas can become obfuscated as different software and hardware applications package them together to create a finished product. This article serves to be a broad overview of how these technologies came about and why they're all pertinent to the current zeitgeist enabling the existence of [*abandoned.ai*](https://abandoned.ai).
 
 ---
 
@@ -40,7 +40,7 @@ For guidelines see the section : [[Photogrammetry]]
 <br/>
 [Image attribution](https://www.cs.cornell.edu/~snavely/bundler/)
 <br/>
-From this point onward emphasis shifts away from the camera, towards the computer. ***Structure from Motion*** (SfM) takes a series of images which share overlapping identifiable features (known as *landmarks*) and puts them through a *localizing* algorithm. This allows the computer to create points in three dimensional space that refer to areas of the image.<br/>
+From this point onward emphasis shifts away from the camera, towards the computer. ***Structure from Motion*** (SfM) takes a series of images which share overlapping identifiable features (known as *landmarks*) and puts them through a *localizing* algorithm. This allows the computer to create points in three dimensional space that refer to areas of the image. We use [COLMAP](https://colmap.github.io/) to accomplish SfM in our pipelines.<br/>
 For guidelines see the section : [[Structure from Motion]]
 
 # (4) NeRF (2020)
@@ -53,7 +53,7 @@ SfM mostly gives us, as the name implies, *structure*, which comes in the form o
 For guidelines see the section : [[NeRF]]
 
 # (5) Gaussian Splatting (2022)
-***This is the method *abandoned.ai* currently uses***
+***This is the method [*abandoned.ai*](https://abandoned.ai) currently uses***
 #### Method : Rendering
 [[Gaussian Splatting]]![[gaussian_nerf_comparison.png]]
 <br/>
