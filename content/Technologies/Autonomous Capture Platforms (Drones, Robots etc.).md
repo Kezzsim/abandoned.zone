@@ -11,7 +11,7 @@ Boston Dynamic's SPOT robot equipped with a LIDAR scanner | [Image attribution](
 # Overview
 Due to the intense environmental hazards presented while scanning abandoned buildings, the ideal route to both maximize data collection and minimize human exposure is to implement hierarchical controls. OSHA describes this process using the following graphic:
 ![A diagram of the Hierarchy of Controls courtesy of the CDC ](https://www.cdc.gov/niosh/topics/hierarchy/images/NIOSH_HOC_Main_508_photocredit.jpg) 
-For brief episodes of urban exploration, personal protective equipment like respirators, helmets and paper suits are sufficient for mitigating exposure to asbestos and falling debris. However, for a prolonged (government sanctioned) scanning operation like the one envisaged by *abandoned.ai*, something more substantial is required.
+For brief episodes of urban exploration, personal protective equipment like respirators, helmets and paper suits are sufficient for mitigating exposure to asbestos and falling debris. However, for a prolonged (government sanctioned) scanning operation like the one envisaged by [*abandoned.ai*](https://abandoned.ai) , something more substantial is required.
 
 Robotic platforms can endure many hours in harsh environments, they are also capable of automating movement and positioning in ways that would otherwise be tedious for a human operator. The extensive photogrammetric process required by advanced machine learning algorithms like NeRF requires a high throughput of training data in which the nature of available lighting will inevitably become baked in to the captured scene. Due to this factor, one autonomous device is insufficient for most scans due to the natural dark environments found in abandoned buildings.
 
