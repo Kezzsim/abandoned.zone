@@ -10,6 +10,8 @@ Regardless of our origins, we seek to become a diverse group with broad knowledg
 > [!tip] Join us! We're currently looking for partners and volunteers that can help hold us accountable.
 > Official contact info coming soon, for now just use Kari's information below:
 
+***Disclaimer***: *All data hosted on these sites is anonymously sourced from third parties. The individuals listed here are not legally responsible for any data collection performed on abandoned properties.*
+
 ---
 
 # Members
