@@ -22,3 +22,18 @@ Things to consider when picking an A.C.P. (Autonomous Capture Platforms):
 - Abandoned buildings are often built of dense materials that are averse to RF? How consistent is the connection even in areas like steam tunnels?
 - Can the device be operated through a cable if there is a need?
 - Can the device ascend and descend stairs? 
+
+---
+
+## Flying Autonomous Platforms
+Drones have become ubiquitous in everyday life as technology companies continue to push for their usage as delivery vehicles and surveillance apparatuses. Drones can produce suitable scans of buildings but mainly from the outside only because there are a lot of chances for collisions against the propeller in tight spaces. [Skydio](https://www.skydio.com/) produces drones that are capable of following an automated path which can be set specifically for photogrammetric use. 
+
+![[skydio.gif]]
+
+Pros:
+- Easily automated positioning and camera controls
+- Commercially available solutions are relatively inexpensive
+
+Cons:
+- Suitable mainly for building exteriors as there is a requirement for lots of space
+- Requires a high level of ambient illumination in order to navigate safely
