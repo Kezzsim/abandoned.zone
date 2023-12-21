@@ -20,3 +20,9 @@ The invention of photography first allowed humans to capture small windows into 
 - [[Timeline|Technologies]]
 - [[Autonomous Platforms]]
 - [[Hosting infrastructure]]
+
+# Goal progression
+
+Website with technology demo : <progress value="100" max="100"></progress>
+</br>
+501c3 nonprofit foundation : <progress value="10" max="100"></progress>

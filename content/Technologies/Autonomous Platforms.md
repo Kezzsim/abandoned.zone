@@ -1,6 +1,7 @@
 ---
-creation_date: 12/14/23
-authors: ["Kari K. Barry"]
+creation_date: 12/19/23
+authors:
+  - Kari K. Barry
 ---
 ![A Boston Dynamics SPOT drone equipped with a Trimble X7 LIDAR geometry scanner](https://media.wired.com/photos/5f92e32c227dbb78ec30da74/master/pass/Science_Spot_AB_0P1A1612.jpg) 
 <br/>
