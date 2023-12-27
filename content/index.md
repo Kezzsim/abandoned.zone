@@ -22,7 +22,9 @@ The invention of photography first allowed humans to capture small windows into 
 - [[Hosting infrastructure]]
 
 # Goal progression
+| Feature | Progress |
+|---------|----------|
+|Website with technology demo | <progress value="100" max="100"></progress> |
+|Fully featured streamable space exploration |<progress value="30" max="100"></progress> |  
+|501c3 nonprofit foundation | <progress value="10" max="100"></progress>|   
 
-Website with technology demo : <progress value="100" max="100"></progress>
-</br>
-501c3 nonprofit foundation : <progress value="10" max="100"></progress>
