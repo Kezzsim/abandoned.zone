@@ -28,7 +28,7 @@ The invention of photography first allowed humans to capture small windows into 
 | Feature | Progress |
 |---------|----------|
 |Website with technology demo | <progress value="100" max="100"></progress> |
-|Fully featured streamable space exploration |<progress value="30" max="100"></progress> | 
+|Fully featured streamable space exploration |<progress value="40" max="100"></progress> | 
 |501c3 nonprofit foundation | <progress value="10" max="100"></progress>|   
 |Rooms scanned at KPPC |<progress value="0.5" max="100"></progress> |  
 

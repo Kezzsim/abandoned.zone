@@ -6,7 +6,7 @@ authors: ["Kari K. Barry"]
 # Main website : [abandoned.ai](https://abandoned.ai) 
 Splash page welcoming visitors to the project, linking them to places where they can view different captured spaces and interact with spatial computing apps built off of captures.
 Connects users with documentation on abandoned.zone for more information. </br>
-**Source Code** : [Github](https://github.com/Kezzsim/abandoned_splat_demo)
+**Source Code** : [Github](https://github.com/Kezzsim/abndn-frame)
 - **Host** : [Github pages](https://pages.github.com/)
 ---
 
