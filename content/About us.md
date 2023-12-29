@@ -25,4 +25,3 @@ Currently a full time employee of Brookhaven National Laboratory at the [Nationa
 Contact:
 - **Website** : [kezzism.com](https://kezzism.com/)
 - **Email** : kezzsim@gmail.com
-- **Phone**: (631) 772-9690
