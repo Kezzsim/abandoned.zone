@@ -22,6 +22,9 @@ The invention of photography first allowed humans to capture small windows into 
 - [[Autonomous Platforms]]
 - [[Hosting infrastructure]]
 
+# Updates
+- [[Changelog]]
+
 ---
 
 ## Goal progression
