@@ -6,17 +6,22 @@ authors: ["Kari K. Barry"]
 
 # Latest release
 
-| Platform |       Date      |      Version     |      Notes    |
-|----------|-----------------|------------------|---------------|
-|  **Website** | **01/03** |    **0.1.1**  <a class="github-button" href="https://github.com/Kezzsim/abndn-frame/commit/bb40b3ef1554ca585027bf316271877c9c220965" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="View commit bb40b3e on github">bb40b3e</a> | - Add compression for mobile clients and Quest VR using [Splat-converter](https://splat-converter.glitch.me/) <br/> - A-frame has been overwriting our favicon so a `"image/x-icon"` tag was added. <br/> - [Plausible](https://plausible.io/) analytics telemetry was added to all sites. |
-|  **VRchat**  |                 |                 |   (No releases yet) |
+## Website
 
+### Version 0.1.1 
+<a class="github-button" href="https://github.com/Kezzsim/abndn-frame/commit/bb40b3ef1554ca585027bf316271877c9c220965" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="View commit bb40b3e on github">bb40b3e</a>
+#### 01/03/2023
+ - Add compression for mobile clients and Quest VR using [Splat-converter](https://splat-converter.glitch.me/)
+ - A-frame has been overwriting our favicon so a `"image/x-icon"` tag was added.
+ - [Plausible](https://plausible.io/) analytics telemetry was added to all sites.
 
+## VRchat
 
+(No releases yet)
 
 ---
 
-# Website
+# Previous Website releases
 
 ## Version 0.1.0 🎉
 <a class="github-button" href="https://github.com/Kezzsim/abndn-frame/commit/7cf62f357b9adff12c3c81896fa714e4bd90e1dd" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="View commit 7cf62f3 on github">7cf62f3</a>
@@ -35,7 +40,7 @@ authors: ["Kari K. Barry"]
 
 ---
 
-# VRchat
+# Previous VRchat releases
 
 (No releases yet)
 
