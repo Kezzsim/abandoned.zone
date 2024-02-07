@@ -1,6 +1,8 @@
 ---
-creation_date: 12/13/23
-authors: ["Kari K. Barry"]
+actual_creation_date: 12/13/23
+creation_date: 02/06/2024
+authors:
+  - Kari K. Barry
 ---
 
 # The Abandoned Zone

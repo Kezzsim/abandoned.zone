@@ -1,6 +1,6 @@
 ---
-creation_date: 12/27/23
-last-modified: 01/03/2024
+actual_creation_date: 12/27/23
+creation_date: 02/06/2024
 authors: ["Kari K. Barry"]
 ---
 
@@ -40,7 +40,7 @@ authors: ["Kari K. Barry"]
 
 ---
 
-# Previous VRchat releases
+# Previous VRchat releas
 
 (No releases yet)
 
